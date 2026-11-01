@@ -51,3 +51,11 @@ Interested buyers can contact the developer through GitHub to discuss acquisitio
 ---
 
 One Thing | A Minimalist Focus Productivity App
+
+🎬 Product Demonstration
+
+Watch One Thing in action:
+
+"▶ Watch the One Thing Demo" (https://youtube.com/shorts/f3WXRUGDV54?si=RZM4DfKR-KS1JAaa)
+
+See how One Thing handles task creation, focus sessions, distraction tracking, session history and productivity summaries.
